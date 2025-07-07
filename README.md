@@ -14,4 +14,4 @@ python manage.py migrate
 python manage.py runserver
 
 ✅ Pull Request создан для проверки изменений.
-# Добавлена строка для PR проверки.
+# Добавлена строка для PR проверки./
